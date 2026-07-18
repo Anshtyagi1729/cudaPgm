@@ -61,3 +61,11 @@ int main(){
     delete[] ram_c;
     return 0;
 }
+/*
+ *
+ *
+ GPU TIME: :0.045 ms
+ CPU TIME:0.32537ms
+ speedup->7.24203
+ *
+ */
